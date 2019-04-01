@@ -1,0 +1,4 @@
+data/
+gensim_models/
+models/
+.DS_Store
